@@ -4,6 +4,11 @@ Emotion recognition on Python with Keras and OpenCV.
 ### A small disclaimer
 I recommend u to open .ipynb file IN GOOGLE COLAB, there is a button in .ipynb to open file in Google Colab, pls press it.
 
+#### What is that shit?
+This is model that detecting face and recognise human emotion.
+There are 7 classes - Anger, Disgust, Fear, Happy, Sad, Surprise, Neutral.
+The accuracy is pretty good - around 50%. This is much better that random chose(case)
+
 #### How to use and import my model for classificating emotions?
 Well, it's very sad to say it, but there's no way to use my model, FOR NOW :(
 So u can only enjoy this masterpiese
