@@ -1,6 +1,9 @@
 # emotionrecognition
 Emotion recognition on Python with Keras and OpenCV. 
 
+### A small disclaimer
+I recommend u to open .ipynb file IN GOOGLE COLAB, there is a button in .ipynb to open file in Google Colab, pls press it.
+
 #### How to use and import my model for classificating emotions?
 Well, it's very sad to say it, but there's no way to use my model, FOR NOW :(
 So u can only enjoy this masterpiese
