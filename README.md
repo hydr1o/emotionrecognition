@@ -8,6 +8,9 @@ So u can only enjoy this masterpiese
 ### What i used for this project?
 Just some ML and DL magic and some Convolutional Neural Network(CNN's)
 
+### How to see this masterpiece?
+Just open .ipynb file and enjoy.
+
 ### Who created this project?
 I created this project....
 
