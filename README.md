@@ -7,7 +7,7 @@ I recommend u to open .ipynb file IN GOOGLE COLAB, there is a button in .ipynb t
 #### What is that shit?
 This is model that detecting face and recognise human emotion.
 There are 7 classes - Anger, Disgust, Fear, Happy, Sad, Surprise, Neutral.
-The accuracy is pretty good - around 50%. This is much better that random chose(case)
+The accuracy is pretty good - around 64%. This is much better that random chose(case)
 
 #### How to use and import my model for classificating emotions?
 Well, it's very sad to say it, but there's no way to use my model, FOR NOW :(
@@ -19,12 +19,6 @@ Just some ML and DL magic and some Convolutional Neural Network(CNN's)
 #### How to see this masterpiece?
 Just open .ipynb file and enjoy. If .ipynb file is not loading, just refresh it.
 GitHub fucked up in this part. 
-
-#### Who created this project?
-I created this project....
-
-#### What is the author's name?
-Nazar.
 
 ...
 
